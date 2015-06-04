@@ -1,0 +1,14 @@
+{
+  "name": "ios-standalone-webapp",
+  "version": "1.0.0",
+  "description": "iOS Standalone Webapp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexlanz/ios-standalone-webapp.git"
+  },
+  "author": {
+    "name": "Alex Lanz",
+    "email": "alex@krumer.it"
+  },
+  "license": "MIT"
+}
